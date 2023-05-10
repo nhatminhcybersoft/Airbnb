@@ -3,7 +3,7 @@
 - Link deploy: https://airbnb-7yvk8b74s-nhatminhcybersoft.vercel.app/
 - Link source: https://github.com/nhatminhcybersoft/Airbnb.git
 - Link youtube: https://www.youtube.com/watch?v=fx4707SxAR0
-- Link phân chia công việc: https://docs.google.com/spreadsheets/d/1-cRYIYT-RrHaFDuUYhQL7A-akaPnp6r4DaFuFh27Ce0/edit?usp=sharing
+- Link phân chia công việc: https://docs.google.com/spreadsheets/d/1uIvWz7CQXTLLriKYUo_Qk47PlK7jwNhbwV1qb2du2Fg/edit?usp=sharing
 - Link postman: https://drive.google.com/file/d/1nA5RIKn2Rt_QtS2fT-6hyw3ktJQSYIe-/view?usp=sharing
 - env:  
 
