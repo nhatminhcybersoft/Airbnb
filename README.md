@@ -1,4 +1,4 @@
-- Nhóm 11: Nguyễn Minh Tiến 
+- Nhóm: Trần Nhật Minh
 - Project: Airbnb
 - Link deploy: https://airbnb-7yvk8b74s-nhatminhcybersoft.vercel.app/
 - Link source: https://github.com/nhatminhcybersoft/Airbnb.git
