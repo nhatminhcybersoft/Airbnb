@@ -1,7 +1,7 @@
 - Nhóm 11: Nguyễn Minh Tiến 
 - Project: Airbnb
-- Link deploy: https://capstonebeairbnb-production.up.railway.app/
-- Link source: https://github.com/NguyenTien99/Capstone_BE_Airbnb
+- Link deploy: https://airbnb-7yvk8b74s-nhatminhcybersoft.vercel.app/
+- Link source: https://github.com/nhatminhcybersoft/Airbnb.git
 - Link youtube: https://www.youtube.com/watch?v=jqbP3yphYOU
 - Link phân chia công việc: https://docs.google.com/spreadsheets/d/1-cRYIYT-RrHaFDuUYhQL7A-akaPnp6r4DaFuFh27Ce0/edit?usp=sharing
 - Link postman: https://drive.google.com/file/d/1nA5RIKn2Rt_QtS2fT-6hyw3ktJQSYIe-/view?usp=sharing
